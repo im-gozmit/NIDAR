@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import imutils
 import datetime
-camera = cv2.VideoCapture('data/videoplayback.mp4')
+camera = cv2.VideoCapture('data/gun4_2.mp4')
 person_cascade = cv2.CascadeClassifier('haarcascade_upperbody.xml')
 gun_cascade = cv2.CascadeClassifier('cascade.xml')
 # initialize the first frame in the video stream
