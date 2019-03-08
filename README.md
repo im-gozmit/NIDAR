@@ -69,7 +69,10 @@ HumanDetection.ipynb
 * If someone do a threat then we can trace the person by training a separate model for facial recognition.
 
 ## Screenshots:
-
+![title](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/gun_1.png)
+![title](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/gun_2.png)
+![title](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/person_1.png)
+![title](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/person_2.png)
 
 ## Built With
 
@@ -90,6 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* To all the organizing member of Women Techmakers BVP and Developer Student Clubs - BVP
+* To all the organizing members of Women Techmakers BVP and Developer Student Clubs - BVP
 * To the mentors : Uday Upreti, Arpan Garg and Nakul Garg for the valuable feedback. 
+* To Google for always being ready to get anything we searched.
