@@ -69,10 +69,10 @@ HumanDetection.ipynb
 * If someone do a threat then we can trace the person by training a separate model for facial recognition.
 
 ## Screenshots:
-![title](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/gun_1.png)
-![title](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/gun_2.png)
-![title](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/person_1.png)
-![title](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/person_2.png)
+![Gun Detection](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/gun_1.png)
+![Gun Detection](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/gun_2.png)
+![Person Detection](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/person_1.png)
+![Person Detection](https://github.com/im-gozmit/NIDAR/blob/master/Screenshots_videos/person_2.png)
 
 ## Built With
 
